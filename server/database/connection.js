@@ -18,3 +18,17 @@ const connectDB = async () => {
 }
 
 module.exports = connectDB
+
+
+// echo "# crud_user_app" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M master
+// git remote add origin https://github.com/samuelhurtado20/crud_user_app.git
+// git push -u origin master
+
+
+// git remote add origin https://github.com/samuelhurtado20/crud_user_app.git
+// git branch -M master
+// git push -u origin master
